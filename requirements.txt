@@ -1,0 +1,22 @@
+# Core deep learning
+torch>=2.0
+torchvision
+
+# Diffusers ecosystem
+diffusers>=0.25
+transformers>=4.30
+accelerate>=0.25
+safetensors
+
+# Wavelet (for background consistency)
+PyWavelets
+
+# Data + utilities
+numpy
+pillow
+tqdm
+matplotlib
+
+# Configuration / logging
+ruamel.yaml
+wandb
